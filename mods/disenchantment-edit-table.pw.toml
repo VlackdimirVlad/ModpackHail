@@ -1,0 +1,13 @@
+name = "Disenchantment Edit Table"
+filename = "DisenchantmentEditTable-1.19-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6a959090aed0bfbc38dada133f663bbe4392e3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3937528
+project-id = 452857

@@ -1,0 +1,13 @@
+name = "Leather Craft"
+filename = "leathercraft-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fef235b5302a8eff22b3fef84d99f74d8026b9c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4030716
+project-id = 624669

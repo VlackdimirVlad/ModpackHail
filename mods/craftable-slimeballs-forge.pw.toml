@@ -1,0 +1,13 @@
+name = "Craftable Slimeballs (Forge)"
+filename = "craftable_slimeballs 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fd54a956021b1bf2ce947bb35e36b4c57953521"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3945338
+project-id = 663285

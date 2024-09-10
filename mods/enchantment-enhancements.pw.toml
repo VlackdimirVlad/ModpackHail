@@ -1,0 +1,13 @@
+name = "Enchantment Enhancements"
+filename = "enchantment_enhancements-1.19.2-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4735eb09a648ea8d498acdc82d467958eb3d0456"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4523823
+project-id = 508538
