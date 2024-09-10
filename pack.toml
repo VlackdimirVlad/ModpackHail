@@ -1,0 +1,13 @@
+name = "HailServerPack"
+author = "Vlackdimir"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "be50b9654f66a7f00a11144788b3e0f2cb934516c61389f24686c51c5ca8b49d"
+
+[versions]
+forge = "43.2.3"
+minecraft = "1.19.2"
