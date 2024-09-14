@@ -3,8 +3,8 @@ filename = "cloth-config-8.2.88-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fbd645755abc0dbe5eb1adeb5e649835294a769f"
+hash-format = "sha256"
+hash = "a827276f4b4d582c2b12605f072286308e78df02db0c3f87d9cef2c117ac7be3"
 mode = "metadata:curseforge"
 
 [update]

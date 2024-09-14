@@ -3,8 +3,8 @@ filename = "MekanismGenerators-1.19.2-10.3.8.477.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0a8beb929a458c8381553e1c6c8f7dca3048d154"
+hash-format = "sha256"
+hash = "e67391ce81d9cdff9b43120433c87d9bc08eec43144d7540704a30da65d43826"
 mode = "metadata:curseforge"
 
 [update]

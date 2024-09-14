@@ -3,8 +3,8 @@ filename = "[1.19.2] SecurityCraft v1.9.6.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "578fe88e89071a59557227f39acc2efd192996d2"
+hash-format = "sha256"
+hash = "a3fec0ee63613303d821b80cdd82a92e5a07dc167ba9afa93f7556396e7cece8"
 mode = "metadata:curseforge"
 
 [update]

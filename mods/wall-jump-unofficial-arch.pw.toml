@@ -3,8 +3,8 @@ filename = "walljump-unofficial-1.6.1b-all+1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c7ba70abe58b38d4090c47d3775443c4b2c3b7bc"
+hash-format = "sha256"
+hash = "81b57846aaefef550c274f0ed691d78099e395d5837fab059005dec9dab244bb"
 mode = "metadata:curseforge"
 
 [update]

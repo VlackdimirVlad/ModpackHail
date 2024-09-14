@@ -3,8 +3,8 @@ filename = "ObsidianBoat-1.11.0-build.20+mc1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "41f23efed3e5343f0b86812d0ebb0a20f0b5ce7f"
+hash-format = "sha256"
+hash = "18cf3504b7f8e2a7bab4f47ec026fa2eef9da9bec91fd8fbf3909608ce375463"
 mode = "metadata:curseforge"
 
 [update]

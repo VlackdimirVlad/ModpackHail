@@ -3,8 +3,8 @@ filename = "connectedglass-1.1.6-forge-mc1.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "af57e1996cd798437d5f76747fa28fd13f323fb1"
+hash-format = "sha256"
+hash = "ca31659d40dbb2ba1c995bc7c6e8917d0693cde58de564fdd213da67ed94d4bb"
 mode = "metadata:curseforge"
 
 [update]

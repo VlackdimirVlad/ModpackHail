@@ -3,8 +3,8 @@ filename = "DisenchantmentEditTable-1.19-1.0.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a6a959090aed0bfbc38dada133f663bbe4392e3d"
+hash-format = "sha256"
+hash = "a6a47d5a33a36d607f7cf397b9a3440c0d88327034c0436175ec66cac42a8b34"
 mode = "metadata:curseforge"
 
 [update]

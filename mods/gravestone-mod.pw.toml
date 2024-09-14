@@ -3,8 +3,8 @@ filename = "gravestone-1.19.2-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "24d41b9a97916181c5eead459364e0de8b5d6227"
+hash-format = "sha256"
+hash = "00474b2930a98758d3a8dd63ad307341586d1248c86785cc39aac52c6c7d2631"
 mode = "metadata:curseforge"
 
 [update]

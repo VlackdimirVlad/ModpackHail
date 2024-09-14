@@ -3,8 +3,8 @@ filename = "carryon-forge-1.19.2-2.1.2.23.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5d2f59451665f5b703cce9fbd9bd6af1aec4c6ad"
+hash-format = "sha256"
+hash = "59e6e1cba7df6f5480745e8a44a54e2b07645c05025d673cdc1af32ba08a5d03"
 mode = "metadata:curseforge"
 
 [update]

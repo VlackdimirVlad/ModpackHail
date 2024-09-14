@@ -3,8 +3,8 @@ filename = "buildinggadgets-3.16.3-build.26+mc1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8c399bcb8c4d42e1d7c2c7d63977140dc6d1ab33"
+hash-format = "sha256"
+hash = "50d2a49aca87f2be8be68e4749c2a9e2689c72ccd9237c4df896cdf665ceac81"
 mode = "metadata:curseforge"
 
 [update]

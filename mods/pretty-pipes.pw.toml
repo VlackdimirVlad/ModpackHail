@@ -3,8 +3,8 @@ filename = "PrettyPipes-1.13.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d1add87a3b9190fd86887a3d1ce7e63ca4e96060"
+hash-format = "sha256"
+hash = "87588bf14d54032c7bf5e7f37ff50d8a295c4acdc0eb619a53103d43b99c5332"
 mode = "metadata:curseforge"
 
 [update]

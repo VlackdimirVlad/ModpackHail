@@ -3,8 +3,8 @@ filename = "CosmeticArmorReworked-1.19.2-v1a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "be03baf7c7a3b7b346137faf212c17a94cad94c3"
+hash-format = "sha256"
+hash = "b4f072dd8a7fc3fce83c11b6a67e4ba2946af4a2946fc1b2041d708c96c08b5e"
 mode = "metadata:curseforge"
 
 [update]

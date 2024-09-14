@@ -3,8 +3,8 @@ filename = "EdivadLib-1.19.2-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e24b30347457ab7a2c534ea6c7953e23af6c9f9c"
+hash-format = "sha256"
+hash = "6785038125151d7c8c18ed14f564627a964a8355221b2dc05d8fa6e7b0039064"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "FluxNetworks-1.19.2-7.1.3.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f1212d542e3705b091b68c6dd8f729f07939b5c5"
+hash-format = "sha256"
+hash = "ee4d2f3207bb5534838483ecd4c97e835b5f1e58f5a8cd5c8344b54bbcf3249e"
 mode = "metadata:curseforge"
 
 [update]

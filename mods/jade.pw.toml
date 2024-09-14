@@ -3,8 +3,8 @@ filename = "Jade-1.19.1-forge-8.8.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "85bfa9775426908750388658dda2b164f79d2a34"
+hash-format = "sha256"
+hash = "e67049faa424ff6a008c842063eff4986a15dcefb4444c12ccf7d37709049f3e"
 mode = "metadata:curseforge"
 
 [update]

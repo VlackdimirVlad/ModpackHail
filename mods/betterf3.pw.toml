@@ -3,8 +3,8 @@ filename = "BetterF3-4.0.0-Forge-1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "aff211dba2f52ad45c9b80d7f6719241e64795dc"
+hash-format = "sha256"
+hash = "7275cd26dac7f7f4906b4ad3319ab88dfcfcbc6d61d0df3fa865db6040cbc800"
 mode = "metadata:curseforge"
 
 [update]

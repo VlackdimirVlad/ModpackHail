@@ -3,8 +3,8 @@ filename = "ancient_enchantment_temple-1.0.1-forge-1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fa05237878f423a61f9680a64c24794b15bcc555"
+hash-format = "sha256"
+hash = "89c5f05d51a591b37cd06bac4099c8a7cacc20b840dda6f566e954c343f1474b"
 mode = "metadata:curseforge"
 
 [update]

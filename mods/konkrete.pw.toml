@@ -3,8 +3,8 @@ filename = "konkrete_forge_1.6.1_MC_1.19-1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b89996fdaa01cc4dd88c77edba2de9aa17c4a00c"
+hash-format = "sha256"
+hash = "f0aef8655e32d473d668410beca7491819371e7e03ba0cb9cc1f40d751695672"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "refinedstorage-1.11.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cc81064ecf2e703a48fb82db1e842772921ed1fb"
+hash-format = "sha256"
+hash = "8c8a1598416074370a110137f8cc124089473f5ed38bc3c7cba66ec8ea980e6f"
 mode = "metadata:curseforge"
 
 [update]

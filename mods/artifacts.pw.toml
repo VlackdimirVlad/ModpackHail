@@ -3,8 +3,8 @@ filename = "artifacts-1.19.2-5.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8b953045cee7d2c4b453408fc83cbb0457670b26"
+hash-format = "sha256"
+hash = "4054b91c8df69f5ac79a61fa605385a1aec4b89466503c920a3adda966f332ad"
 mode = "metadata:curseforge"
 
 [update]

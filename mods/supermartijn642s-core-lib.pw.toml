@@ -3,8 +3,8 @@ filename = "supermartijn642corelib-1.1.7-forge-mc1.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bdaff70cdb65c9204dc53164f93d82043b4b922a"
+hash-format = "sha256"
+hash = "daabefb8960a4fe6044902fa95172d2b315c5020ada6a0fcbb34df767fed1202"
 mode = "metadata:curseforge"
 
 [update]

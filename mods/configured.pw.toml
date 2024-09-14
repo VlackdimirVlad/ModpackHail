@@ -3,8 +3,8 @@ filename = "configured-2.1.1-1.19.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "27e301553d9850386395bd199805999c3bd9184a"
+hash-format = "sha256"
+hash = "f6a92830ff3729c3422b80c2cddfb0bcd62bf51d165784e22b3c75da3d99703c"
 mode = "metadata:curseforge"
 
 [update]
