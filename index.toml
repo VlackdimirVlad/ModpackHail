@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-enhancements.pw.toml"
-hash = "dcbd78361d81230b698768ca4d9f6f31639c127ffeb75e3d410e7b63aee331d8"
+hash = "2bca2980a21db4057f3ec80e0487cfa293c798c8f20eebfdb8f2f8bdb616796a"
 metafile = true
 
 [[files]]
@@ -329,3 +329,11 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "5d2ca495ef1faa94e3d8939f9388d7666a962d98c6d6dde085350d2aeac52367"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar:Zone.Identifier"
+hash = "f29a3a4a837e311170673c976f08aca1673f7572505d5b756d3a6799bab9e01e"
