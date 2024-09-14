@@ -1,13 +1,11 @@
-name = "Enchantment Enhancements"
+name = "Enchanment Enhancements"
 filename = "enchantment_enhancements-1.19.2-1.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R3pe3nXn/versions/LWToNpXU/enchantment_enhancements-1.19.2-1.6.1.jar"
-hash-format = "sha512"
-hash = "de7d63f23204724f30d7cf8405a40e3b47ab16e444818654ce5b8a2ccad99b382a2e117f0f8ec3f5840a88b575ea77a9022ddf6ce0a306809fd95e504d21495d"
+url = "https://github.com/VlackdimirVlad/ModpackHail/raw/main/mods/craftable_slimeballs+1.19.2.jar"
 
-[update]
-[update.modrinth]
-mod-id = "R3pe3nXn"
-version = "LWToNpXU"
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "ec5a9a41022c65074baff3a9d5bbbbfcc015b84b40bbee64dad35eb5001486d9"
