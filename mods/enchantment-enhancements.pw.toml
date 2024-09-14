@@ -3,11 +3,11 @@ filename = "enchantment_enhancements-1.19.2-1.6.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4735eb09a648ea8d498acdc82d467958eb3d0456"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/R3pe3nXn/versions/LWToNpXU/enchantment_enhancements-1.19.2-1.6.1.jar"
+hash-format = "sha512"
+hash = "de7d63f23204724f30d7cf8405a40e3b47ab16e444818654ce5b8a2ccad99b382a2e117f0f8ec3f5840a88b575ea77a9022ddf6ce0a306809fd95e504d21495d"
 
 [update]
-[update.curseforge]
-file-id = 4523823
-project-id = 508538
+[update.modrinth]
+mod-id = "R3pe3nXn"
+version = "LWToNpXU"
