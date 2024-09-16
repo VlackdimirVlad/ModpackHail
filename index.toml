@@ -350,7 +350,3 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar:Zone.Identifier"
-hash = "f29a3a4a837e311170673c976f08aca1673f7572505d5b756d3a6799bab9e01e"
