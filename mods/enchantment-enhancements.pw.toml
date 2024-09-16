@@ -3,9 +3,9 @@ filename = "enchantment_enhancements-1.19.2-1.6.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/VlackdimirVlad/ModpackHail/raw/main/mods/craftable_slimeballs+1.19.2.jar"
+url = "https://github.com/VlackdimirVlad/ModpackHail/raw/main/mods/enchantment_enhancements-1.19.2-1.6.1.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
-hash-format = "sha256"
-hash = "ec5a9a41022c65074baff3a9d5bbbbfcc015b84b40bbee64dad35eb5001486d9"
+hash-format = "sha1"
+hash = "4735eb09a648ea8d498acdc82d467958eb3d0456"

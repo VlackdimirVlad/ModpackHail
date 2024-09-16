@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftable-slimeballs-forge.pw.toml"
-hash = "b4c8521f732b8b3e5994513a588da6129c326c150128353a9d42a83632e6f53a"
+hash = "d13972a9a52a51f6a03111e8b27931441ea45fb31dfcf9d8533e30e585f0e8f6"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ hash = "2804c06ccf723e5ca190686867f1ac5a92de1b025db121257a6df73c1fba01cb"
 
 [[files]]
 file = "mods/create-recycle-everything.pw.toml"
-hash = "cbc8421c31999cd7a1013e749f6b079e71d25dad80643bd8dfb8db7f4aed5f6d"
+hash = "b973dc4abe7f5e9d1b8518e3cdbad3afad8a7c9b9744a80c6e180513e45d2379"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-enhancements.pw.toml"
-hash = "64379c204dbbc7edfa0d91b9f1975cd322dcfa7988b3b44cd5c9e5869c59e6ea"
+hash = "302af3b5de8e02ae8fc93bba7eab0680e0bff8708a8dc7f4be8d1c808369f0a9"
 metafile = true
 
 [[files]]
