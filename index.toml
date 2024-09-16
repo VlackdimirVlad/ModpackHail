@@ -346,7 +346,3 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "7c3c3040f1ce4df87c3b8fa00cf5313d91e4633ad88764891e32e4b7a94c72ef"
 metafile = true
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
