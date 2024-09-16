@@ -335,6 +335,11 @@ hash = "080215b148bc84c6eeacf589a0de7a7e8922b37ee9ea484fc8dd6b145796682c"
 metafile = true
 
 [[files]]
+file = "mods/time-control.pw.toml"
+hash = "27f1978f33e3942676bc2ec1bf3f5ee5151821f7cf61aae0048404eab01f7177"
+metafile = true
+
+[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "0240380ae82fdd7974420d6fdaa9a839de7aab185d652782cd9590592a2cd1ef"
 metafile = true
