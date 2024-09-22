@@ -119,6 +119,11 @@ hash = "44912cc8fe1e8110bab0d104e614b02da09814456036ebfb49af537ff9a69a1a"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "b50e76e4789296894257615963298525b83d49041449ff85fa9b0b908b153bcd"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "c1cf7ee0ecab8844daea8bba81ebd2b74a2decd5ecf3581d8be479ffe7a06e58"
 metafile = true
@@ -240,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
 hash = "6cf66a7955e548a9666afc66b50b04ff8096823788d6767d9a58b2efa502c78f"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "35c8dbbcfd0cf1726ed5e5c21f1542f861970471f93f08c573118d4478d97d9e"
 metafile = true
 
 [[files]]
