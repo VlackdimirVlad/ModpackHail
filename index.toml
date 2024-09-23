@@ -41,6 +41,11 @@ hash = "8011559dd822cec7b1b4f9b9796048d5255b242b061b1c0d0d4e27a8f8e51457"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "0beaaec7c1ff90aaae242a891905924c3db584a17f05a8795ddc5a1c5229d53f"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "a9f1b7f7b685674e16d118199278a40bcda064558535dcb764b693ca13e00ae1"
 metafile = true
