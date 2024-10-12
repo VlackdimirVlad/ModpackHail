@@ -41,6 +41,11 @@ hash = "8011559dd822cec7b1b4f9b9796048d5255b242b061b1c0d0d4e27a8f8e51457"
 metafile = true
 
 [[files]]
+file = "mods/boryss-figures.pw.toml"
+hash = "a556eef5db114abd763ba7ccdce58c56c2fcfe823ba77ca682efdc1d2c3b60e3"
+metafile = true
+
+[[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "0beaaec7c1ff90aaae242a891905924c3db584a17f05a8795ddc5a1c5229d53f"
 metafile = true
@@ -183,6 +188,16 @@ hash = "c7fcfe58fb6bf9732065c149b4d372510b90a322b5d3090618a3488368a26d28"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "138b762dcd3d55592bd3d0ec558c06f071903542436586eb0066687a4ace1580"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "85a2a37491eaee48a1e4b5334ec2eaaf2fa41a28354b2346fa97ad6f22d609ad"
 metafile = true
@@ -303,6 +318,11 @@ hash = "5bfc9a53df718ca6869e3e535d89b7622604b49b1d6cb0671d4bc03372f6b1fd"
 metafile = true
 
 [[files]]
+file = "mods/siren-head-the-arrival.pw.toml"
+hash = "fcc3b878dec91ee47552f8ab4e910476c5247883884072a0e701c95b30b77881"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "d74e07ffb70d31bab2993630916d68db331f4e0879cb58146b9050bcd0e3da99"
 metafile = true
@@ -325,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "577786d418b96abd10c9d89d2a9525011d9c92d0e8dd49c2b22f474c1f84c47a"
+metafile = true
+
+[[files]]
+file = "mods/the-man-from-the-fog.pw.toml"
+hash = "9cfc73d58e3f2c119a21de375243be27493c5e062cf140654c257b58f0449234"
 metafile = true
 
 [[files]]
