@@ -313,11 +313,6 @@ hash = "5bfc9a53df718ca6869e3e535d89b7622604b49b1d6cb0671d4bc03372f6b1fd"
 metafile = true
 
 [[files]]
-file = "mods/siren-head-the-arrival.pw.toml"
-hash = "fcc3b878dec91ee47552f8ab4e910476c5247883884072a0e701c95b30b77881"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "d74e07ffb70d31bab2993630916d68db331f4e0879cb58146b9050bcd0e3da99"
 metafile = true
