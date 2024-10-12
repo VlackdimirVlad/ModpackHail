@@ -1,0 +1,13 @@
+name = "the figures - CEOofAUTIZMZ (dweller)(horror)(cryptid)(stalker)"
+filename = "the_figures-1.6.0-forge-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45720783b284f2132a6e99a659a6f1434264eead"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5514184
+project-id = 998397
